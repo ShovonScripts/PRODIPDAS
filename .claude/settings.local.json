@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(git -C \"D:/Project/test/PRODIPDAS\" log --oneline -5)",
+      "Bash(git -C \"D:/Project/test/PRODIPDAS\" remote -v)"
+    ]
+  }
+}
