@@ -1,0 +1,25 @@
+{
+  "name": "Prodip Das - Portfolio",
+  "short_name": "Prodip Das",
+  "description": "Professional portfolio of Prodip Das - International Event Management Professional and English Language Specialist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "prodip.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "prodip.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
